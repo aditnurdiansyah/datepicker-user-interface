@@ -36,3 +36,15 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Assets (`assets/`)**
   Directory containing project icons (`calendar.svg`, `chevron-left.svg`, `chevron-right.svg`), favicons, Open Graph images, and `project-preview.png`.
+
+## Submission Checklist
+
+* [x] Semantically structured HTML page.
+* [x] SEO meta tags implemented.
+* [x] Open Graph tags included.
+* [x] Favicon configured.
+* [x] Responsive layout across different viewport sizes.
+* [x] Clean and functional Datepicker UI layout and styling.
+* [x] Consistent use of color palette and typography.
+* [x] Proper use of CSS Flexbox and CSS Grid techniques.
+* [x] Integration of SVG icons for calendar navigation and input styling.

@@ -48,3 +48,21 @@ The project focuses on building a semantic and accessible web component while ap
 * [x] Consistent use of color palette and typography.
 * [x] Proper use of CSS Flexbox and CSS Grid techniques.
 * [x] Integration of SVG icons for calendar navigation and input styling.
+
+## How to Use
+
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/datepicker-ui
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd datepicker-ui
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize the styling, date states, and calendar controls according to your UI/UX application requirements.

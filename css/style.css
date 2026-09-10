@@ -17,7 +17,7 @@
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 5px;
-    width: 200px;
+    width: 250px;
 }
 
 .datepicker-input input {
@@ -25,12 +25,18 @@
     outline: none;
     flex-grow: 1;
     padding: 5px;
+    text-align: center;
 }
 
-.datepicker-input button {
+.datepicker-input .datepicker-icon {
     background: none;
     border: none;
     cursor: pointer;
+}
+
+.datepicker-input .datepicker-icon img {
+    width: 20px;
+    height: 20px;
 }
 
 .calendar {

@@ -66,3 +66,10 @@ cd datepicker-ui
 3. Open `index.html` in your browser.
 
 4. Customize the styling, date states, and calendar controls according to your UI/UX application requirements.
+
+## Project Preview
+
+<p align="center">
+  <img src="/assets/project-preview.png" alt="Project Preview" width="800">
+</p>
+

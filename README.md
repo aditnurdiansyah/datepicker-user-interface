@@ -1,4 +1,4 @@
-# Datepicker UI
+# Datepicker User Interface
 
 ## Project Overview
 

@@ -54,13 +54,13 @@ The project focuses on building a semantic and accessible web component while ap
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/aditnurdiansyah/datepicker-ui
+git clone https://github.com/aditnurdiansyah/datepicker-user-interface
 ```
 
 2. Navigate to the project folder.
 
 ```bash
-cd datepicker-ui
+cd datepicker-user-interface
 ```
 
 3. Open `index.html` in your browser.
